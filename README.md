@@ -19,7 +19,7 @@ Built using Object-Oriented Programming principles including Abstraction, Inheri
 
 The Institution Staff Management System is a desktop-based application developed using Java Swing and Object-Oriented Programming concepts. The system provides an efficient solution for managing academic and administrative staff records through an intuitive graphical interface.
 
-The application supports complete staff lifecycle management including adding, searching, updating, removing, and displaying staff records dynamically. :contentReference[oaicite:2]{index=2}
+The application supports complete staff lifecycle management including adding, searching, updating, removing, and displaying staff records dynamically.
 
 ---
 
@@ -77,8 +77,7 @@ This hierarchy demonstrates inheritance and abstraction principles used througho
 | Constructor Chaining | Use of `super` keyword |
 | Immutability | `staffID` declared as `final` |
 
-The project was specifically designed to demonstrate core Object-Oriented Programming concepts. :contentReference[oaicite:4]{index=4}
-
+The project was specifically designed to demonstrate core Object-Oriented Programming concepts.
 ---
 
 ## 🏗️ Architecture
